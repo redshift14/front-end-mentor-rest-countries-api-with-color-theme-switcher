@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Front End Mentor]()
-- Live Site URL: [Netlify]()
+- Solution URL: [Front End Mentor](https://www.frontendmentor.io/solutions/rest-countries-api-using-react-SkqQfQkQq)
+- Live Site URL: [Netlify](https://ornate-pika-b45ee8.netlify.app/)
 
 ## My process
 
