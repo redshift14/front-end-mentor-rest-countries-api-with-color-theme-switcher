@@ -2,7 +2,7 @@
   "name": "front-end-mentor-rest-countries-api-with-color-theme-switcher",
   "version": "1.0.0",
   "description": "front end mentor challenge solution",
-  "private": true,
+  "private": false,
   "author": "",
   "license": "ISC",
   "dependencies": {
